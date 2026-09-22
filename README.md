@@ -11,10 +11,17 @@ we will build this agent using Gemini Enterprise Agent Platform
 
 <img width="563" height="466" alt="image" src="https://github.com/user-attachments/assets/b3f0bc7c-b778-4635-ad87-75606dff1d1e" />
 
-*Core enterprise challenges addressed by the platform:
+*Core enterprise challenges addressed by the platform: *
 
-Trust: Using agent evaluation to ensure AI responses are reliable and avoid hallucinations (6:02 - 6:10).
-Runtime: Implementing agent runtime to manage deployment, scaling, and crash recovery (6:54 - 7:07).
-Memory: Utilizing the memory bank feature to maintain persistent context across sessions (7:53 - 8:14).
-Identity & Security: Assigning specific agent identities and permissions (e.g., read vs. read/write) using SPIFFE (9:28 - 9:39).
-Observability & Cost: Monitoring agent performance and infrastructure costs through native Google Cloud tools and the model garden to optimize resource usage (9:50 - 11:39).
+Trust: Using agent evaluation to ensure AI responses are reliable and avoid hallucinations.
+
+Runtime: Implementing agent runtime to manage deployment, scaling, and crash recovery.
+
+Memory: Utilizing the memory bank feature to maintain persistent context across sessions.
+
+Identity & Security: Assigning specific agent identities and permissions (e.g., read vs. read/write) using SPIFFE.
+
+Observability & Cost: Monitoring agent performance and infrastructure costs through native Google Cloud tools and the model garden to optimize resource usage.
+
+
+
